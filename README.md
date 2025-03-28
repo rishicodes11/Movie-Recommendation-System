@@ -1,1 +1,2 @@
 # Movie-Recommendation-System
+This is a basic Movie Recommendation System that suggests movies using cosine similarity. It analyzes the similarity between movie feature vectors (such as genres, descriptions, or user preferences) and recommends the most relevant movies based on the input. The system is built using fundamental machine learning techniques and provides personalized recommendations efficiently.
